@@ -601,7 +601,7 @@ header.header--unactive .burger-menu::after {
 
 .site__logo {
   display: block;
-  background-image: url(/img/logo.png);
+  background-image: url(img/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 189.8px;
@@ -780,7 +780,7 @@ header.header--unactive .burger-menu::after {
   -ms-flex: 0 0 40%;
   flex: 0 0 40%;
   min-width: 280px;
-  background-image: url(/img/phone_message_badget.png);
+  background-image: url(img/phone_message_badget.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center right;
@@ -1067,11 +1067,11 @@ p.text.blue {
 
 @supports (-webkit-appearance:none) {
   .site__logo {
-    background-image: url(/img/logo.webp);
+    background-image: url(img/logo.webp);
   }
 
   .qr-business-card .qr-business-card__img {
-    background-image: url(/img/phone_message_badget.webp);
+    background-image: url(img/phone_message_badget.webp);
   }
 }
 
@@ -1144,6 +1144,31 @@ p.text.blue {
 }
 
 @media screen and (max-width:768px) {
+  .secure-badget {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 25px 30px;
+  }
+
+  .secure-badget .secure-badget__icon {
+    min-width: 36px;
+    width: 36px;
+    height: 42px;
+    max-height: 42px;
+  }
+
+  .secure-badget .secute-badget__text {
+    font-weight: 800;
+    font-size: 2.2rem;
+    margin-left: 20px;
+    line-height: 125%;
+    color: #fff;
+  }
+
   .site__logo {
     width: 175.2px;
     height: 48px;
@@ -1708,7 +1733,7 @@ p.text.blue {
   -ms-flex: 0 0 40%;
   flex: 0 0 40%;
   min-width: 280px;
-  background-image: url(/img/phone_message_badget.png);
+  background-image: url(img/phone_message_badget.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center right;
@@ -1725,7 +1750,7 @@ p.text.blue {
 
 @supports (-webkit-appearance:none) {
   .qr-business-card .qr-business-card__img {
-    background-image: url(/img/phone_message_badget.webp);
+    background-image: url(img/phone_message_badget.webp);
   }
 }
 
@@ -2401,6 +2426,33 @@ header.header--unactive .burger-menu::after {
   color: #fff;
 }
 
+@media screen and (max-width:768px) {
+  .secure-badget {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 25px 30px;
+  }
+
+  .secure-badget .secure-badget__icon {
+    min-width: 36px;
+    width: 36px;
+    height: 42px;
+    max-height: 42px;
+  }
+
+  .secure-badget .secute-badget__text {
+    font-weight: 800;
+    font-size: 2.2rem;
+    margin-left: 20px;
+    line-height: 125%;
+    color: #fff;
+  }
+}
+
 @media screen and (max-width:425px) {
   .secure-badget {
     display: -webkit-inline-box;
@@ -2456,7 +2508,7 @@ header.header--unactive .burger-menu::after {
 }
 .site__logo {
   display: block;
-  background-image: url(/img/logo.png);
+  background-image: url(img/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 189.8px;
@@ -2467,7 +2519,7 @@ header.header--unactive .burger-menu::after {
 
 @supports (-webkit-appearance:none) {
   .site__logo {
-    background-image: url(/img/logo.webp);
+    background-image: url(img/logo.webp);
   }
 }
 
