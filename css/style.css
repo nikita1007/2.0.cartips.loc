@@ -833,7 +833,7 @@ header.header--unactive .burger-menu::after {
 
 .social-links .social-links__inner {
   width: 100%;
-  max-width: 1044px;
+  max-width: 1000px;
   margin: 0 auto;
   position: relative;
 }
@@ -858,13 +858,13 @@ header.header--unactive .burger-menu::after {
 }
 
 .social-links .circle#circle-2 {
-  width: 75.0957854406%;
-  height: 75.0957854406%;
+  width: 78.4%;
+  height: 78.4%;
 }
 
 .social-links .circle#circle-3 {
-  width: 47.7011494253%;
-  height: 47.7011494253%;
+  width: 49.8%;
+  height: 49.8%;
 }
 
 .social-links .social-link {
@@ -948,7 +948,7 @@ header.header--unactive .burger-menu::after {
 .whats-next {
   margin-top: 225px;
   width: 100%;
-  padding: 60px;
+  padding: 50px 60px;
   background-color: #459edc;
   -webkit-box-shadow: .716642px 2.14992px 19.3493px rgba(69,158,220,.45);
   box-shadow: .716642px 2.14992px 19.3493px rgba(69,158,220,.45);
@@ -1019,7 +1019,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1180px;
   padding: 0 20px;
   width: 100%;
   margin: 0 auto;
@@ -1819,7 +1819,7 @@ p.text.blue {
 
 .social-links .social-links__inner {
   width: 100%;
-  max-width: 1044px;
+  max-width: 1000px;
   margin: 0 auto;
   position: relative;
 }
@@ -1844,13 +1844,13 @@ p.text.blue {
 }
 
 .social-links .circle#circle-2 {
-  width: 75.0957854406%;
-  height: 75.0957854406%;
+  width: 78.4%;
+  height: 78.4%;
 }
 
 .social-links .circle#circle-3 {
-  width: 47.7011494253%;
-  height: 47.7011494253%;
+  width: 49.8%;
+  height: 49.8%;
 }
 
 .social-links .social-link {
@@ -1992,7 +1992,7 @@ p.text.blue {
 .whats-next {
   margin-top: 225px;
   width: 100%;
-  padding: 60px;
+  padding: 50px 60px;
   background-color: #459edc;
   -webkit-box-shadow: .716642px 2.14992px 19.3493px rgba(69,158,220,.45);
   box-shadow: .716642px 2.14992px 19.3493px rgba(69,158,220,.45);
