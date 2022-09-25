@@ -601,7 +601,7 @@ header.header--unactive .burger-menu::after {
 
 .site__logo {
   display: block;
-  background-image: url(img/logo.png);
+  background-image: url(../img/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 189.8px;
@@ -780,7 +780,7 @@ header.header--unactive .burger-menu::after {
   -ms-flex: 0 0 40%;
   flex: 0 0 40%;
   min-width: 280px;
-  background-image: url(img/phone_message_badget.png);
+  background-image: url(../img/phone_message_badget.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center right;
@@ -1018,6 +1018,7 @@ body {
 
 main.main {
   margin-top: 122px;
+  padding-bottom: 50px;
 }
 
 h2.site-title {
@@ -1067,11 +1068,11 @@ p.text.blue {
 
 @supports (-webkit-appearance:none) {
   .site__logo {
-    background-image: url(img/logo.webp);
+    background-image: url(../img/logo.webp);
   }
 
   .qr-business-card .qr-business-card__img {
-    background-image: url(img/phone_message_badget.webp);
+    background-image: url(../img/phone_message_badget.webp);
   }
 }
 
@@ -1733,7 +1734,7 @@ p.text.blue {
   -ms-flex: 0 0 40%;
   flex: 0 0 40%;
   min-width: 280px;
-  background-image: url(img/phone_message_badget.png);
+  background-image: url(../img/phone_message_badget.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center right;
@@ -1750,7 +1751,7 @@ p.text.blue {
 
 @supports (-webkit-appearance:none) {
   .qr-business-card .qr-business-card__img {
-    background-image: url(img/phone_message_badget.webp);
+    background-image: url(../img/phone_message_badget.webp);
   }
 }
 
@@ -2508,7 +2509,7 @@ header.header--unactive .burger-menu::after {
 }
 .site__logo {
   display: block;
-  background-image: url(img/logo.png);
+  background-image: url(../img/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 189.8px;
@@ -2519,7 +2520,7 @@ header.header--unactive .burger-menu::after {
 
 @supports (-webkit-appearance:none) {
   .site__logo {
-    background-image: url(img/logo.webp);
+    background-image: url(../img/logo.webp);
   }
 }
 
