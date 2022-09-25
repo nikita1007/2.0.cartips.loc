@@ -250,6 +250,30 @@ h6 {
   font-weight: 400;
 }
 
+@font-face {
+  font-family: Manrope;
+  src: local("Manrope/Manrope-Bold"),url(../fonts/Manrope/Manrope-Bold.woff2) format("woff2"),url(../fonts/Manrope/Manrope-Bold.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: local("Manrope/Manrope-ExtraBold"),url(../fonts/Manrope/Manrope-ExtraBold.woff2) format("woff2"),url(../fonts/Manrope/Manrope-ExtraBold.woff) format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: local("Manrope/Manrope-SemiBold"),url(../fonts/Manrope/Manrope-SemiBold.woff2) format("woff2"),url(../fonts/Manrope/Manrope-SemiBold.woff) format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
 .burger-menu {
   position: relative;
   width: 32px;
@@ -769,16 +793,16 @@ header.header--unactive .burger-menu::after {
 
 .qr-business-card .qr-business-card__info {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 50%;
-  flex: 0 0 50%;
-  margin-right: 80px;
+  -ms-flex: 0 0 60%;
+  flex: 0 0 60%;
+  margin-right: 50px;
   padding-bottom: 90px;
 }
 
 .qr-business-card .qr-business-card__img {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 40%;
-  flex: 0 0 40%;
+  -ms-flex: 0 0 35%;
+  flex: 0 0 35%;
   min-width: 280px;
   background-image: url(../img/phone_message_badget.png);
   background-repeat: no-repeat;
@@ -1723,16 +1747,16 @@ p.text.blue {
 
 .qr-business-card .qr-business-card__info {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 50%;
-  flex: 0 0 50%;
-  margin-right: 80px;
+  -ms-flex: 0 0 60%;
+  flex: 0 0 60%;
+  margin-right: 50px;
   padding-bottom: 90px;
 }
 
 .qr-business-card .qr-business-card__img {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 40%;
-  flex: 0 0 40%;
+  -ms-flex: 0 0 35%;
+  flex: 0 0 35%;
   min-width: 280px;
   background-image: url(../img/phone_message_badget.png);
   background-repeat: no-repeat;
