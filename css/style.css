@@ -646,7 +646,7 @@ header.header--unactive .burger-menu::after {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 65px;
+  margin-top: 40px;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -660,7 +660,7 @@ header.header--unactive .burger-menu::after {
 }
 
 .feedback .feedback__form .form .form__row {
-  margin-top: 30px;
+  margin-top: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -676,15 +676,15 @@ header.header--unactive .burger-menu::after {
 
 .feedback .feedback__form .form .form__label {
   font-weight: 700;
-  font-size: 2.8rem;
-  line-height: 4.6rem;
+  font-size: 2.6rem;
+  line-height: 4.2rem;
   color: #459edc;
 }
 
 .feedback .feedback__form .form input[type=text].form__input {
-  margin-top: 20px;
-  padding: 16px 30px;
-  font-size: 2.2rem;
+  margin-top: 10px;
+  padding: 10px 25px;
+  font-size: 1.6rem;
   line-height: 3.4rem;
   color: #000;
   background-color: #efefef;
@@ -717,14 +717,14 @@ header.header--unactive .burger-menu::after {
 }
 
 .feedback .feedback__form .form .btn {
-  margin-top: 75px;
+  margin-top: 50px;
 }
 
 .feedback .feedback__form .feedback__img {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 35%;
-  flex: 0 0 35%;
-  min-width: 320px;
+  -ms-flex: 0 0 30%;
+  flex: 0 0 30%;
+  min-width: 300px;
   margin-left: 60px;
 }
 
@@ -1085,14 +1085,14 @@ p.text.blue {
 }
 
 .btn {
-  padding: 15px 80px;
+  padding: 10px 70px;
   -webkit-box-shadow: .716642px 2.14992px 19.3493px rgba(69,158,220,.45);
   box-shadow: .716642px 2.14992px 19.3493px rgba(69,158,220,.45);
   border-radius: 100px;
   background-color: #459edc;
   cursor: pointer;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 36px;
   color: #fff;
 }
@@ -1512,7 +1512,7 @@ p.text.blue {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 65px;
+  margin-top: 40px;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -1526,7 +1526,7 @@ p.text.blue {
 }
 
 .feedback .feedback__form .form .form__row {
-  margin-top: 30px;
+  margin-top: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1542,15 +1542,15 @@ p.text.blue {
 
 .feedback .feedback__form .form .form__label {
   font-weight: 700;
-  font-size: 2.8rem;
-  line-height: 4.6rem;
+  font-size: 2.6rem;
+  line-height: 4.2rem;
   color: #459edc;
 }
 
 .feedback .feedback__form .form input[type=text].form__input {
-  margin-top: 20px;
-  padding: 16px 30px;
-  font-size: 2.2rem;
+  margin-top: 10px;
+  padding: 10px 25px;
+  font-size: 1.6rem;
   line-height: 3.4rem;
   color: #000;
   background-color: #efefef;
@@ -1583,14 +1583,14 @@ p.text.blue {
 }
 
 .feedback .feedback__form .form .btn {
-  margin-top: 75px;
+  margin-top: 50px;
 }
 
 .feedback .feedback__form .feedback__img {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 35%;
-  flex: 0 0 35%;
-  min-width: 320px;
+  -ms-flex: 0 0 30%;
+  flex: 0 0 30%;
+  min-width: 300px;
   margin-left: 60px;
 }
 
